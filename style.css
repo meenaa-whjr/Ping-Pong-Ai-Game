@@ -1,0 +1,18 @@
+body
+{
+background-image:url(background.jpeg);
+background-size:cover;
+}
+#header{
+    width:100%;
+    text-align:left;
+}
+#header h1{
+    display:inline;
+}
+#header button{
+    float:right;
+}
+#start{
+    margin-top:15px;
+}
